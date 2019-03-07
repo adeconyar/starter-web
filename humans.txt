@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Raymond Noceda -- developer -- raynoceda@hotmail.com
 
 # THANKS
 
