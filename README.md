@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 adding more text for rebasing example
+adding more text while in myfeature branch and not the master branch
 
 ## Purpose
 
