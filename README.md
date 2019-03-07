@@ -12,6 +12,8 @@ xxxxxxxxxxxxxxxxxxxx
 
 ## contribute
 
+please fork this repository and then issue a pull request for review
+
 xxxxxxxxxxxxxxxxx
 
 ## more
