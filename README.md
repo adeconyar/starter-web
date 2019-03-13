@@ -37,4 +37,4 @@ qqqqqqqqqqqqqqqqqqqqqqq
 dsfjhsdjkfhdsajkfadskf
 
 ### Copyright
-2019 git training
+2019 git training. all rights reserved
